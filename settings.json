@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": ".MomentSMPnet.aternos.me",
+    "ip": "MomentSMPnet.aternos.me",
     "port": 31507,
     "version": "",
     "try-creative": false
